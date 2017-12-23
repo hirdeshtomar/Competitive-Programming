@@ -6,7 +6,7 @@
  * You have to get this job done as soon as possible under the constraints that any painter will only paint
  * continuous sections of board, say board {2, 3, 4} or only board {1} or nothing but not board {2, 4, 5}.
  * -----------------------
- * 
+ *  
  * Recursive Solution
  * 
  * Author - Hirdesh Tomar
