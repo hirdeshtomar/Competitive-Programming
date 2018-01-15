@@ -56,7 +56,7 @@ public class GraphAsList {
 	}
 	
 	public void print() {
-		System.out.println("printing..");
+		System.out.println("printing graph...");
 		
 		for(int i=0; i<count; i++) {
 			Node node = adjList[i].head;
